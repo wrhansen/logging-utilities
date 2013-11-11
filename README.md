@@ -1,4 +1,4 @@
-# Log Utilities
+# Logging Utilities
 
 This project contains modules/classes/functions that extend the built-in
 logging module. 
